@@ -1,7 +1,7 @@
-### React Songs
+## React Songs
 Song lookup using React Redux
 
-### start project
+## start project
 'npm start'
 
 
