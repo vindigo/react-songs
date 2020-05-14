@@ -1,0 +1,8 @@
+.ui.grid.container {
+  margin: 2em auto;
+}
+
+.song-detail {
+  padding: .25em;
+  border: 1px solid #c0c0c0;
+}
